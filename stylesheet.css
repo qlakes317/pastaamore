@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head> <link rel="stylesheet" href="styles.css">
+<style>
+body {background-color: Cafe;}
+h1   {color: Leafy Green;}
+font-family: Klinic Slab;
+  font-size: 200%;
+p    {color: Marinara Red;}
+font-family: Goudy Old Style;
+  font-size: 100%;
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
